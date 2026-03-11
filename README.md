@@ -29,9 +29,9 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try it live](https://yourusername.github.io/bloom-pomodoro/)**
+👉 **[Try it live](https://shekinahreignflorence.github.io/Bloom-Pomodoro/)**
 
-*(Replace with your actual GitHub Pages URL)*
+
 
 ---
 
@@ -60,8 +60,7 @@ No installs or setup needed. Just open the file in any browser:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/bloom-pomodoro.git
-
+git clone https://github.com/ShekinahReignFlorence/Bloom-Pomodoro.git
 # Open in browser
 open index.html
 ```
